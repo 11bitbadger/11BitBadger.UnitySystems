@@ -1,0 +1,12 @@
+{
+  "name": "com.11bitbadger.unitysystems",
+  "version": "1.0.0",
+  "displayName": "11BitBadger Systems",
+  "description": "A collection of helper classes and systems for use with Unity3D",
+  "unity": "2020.1",
+  "author": {
+    "name": "11BitBadger",
+    "email": "unitysystems@11bitbadger.com",
+    "url": "https://www.11bitbadger.com"
+  }
+}
