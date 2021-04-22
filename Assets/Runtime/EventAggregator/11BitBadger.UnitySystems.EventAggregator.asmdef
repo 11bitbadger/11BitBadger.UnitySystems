@@ -1,0 +1,16 @@
+{
+    "name": "11BitBadger.UnitySystems.EventAggregator",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1cbe1b6aeec0b6d4ab7de1a18b70c766"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
